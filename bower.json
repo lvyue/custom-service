@@ -1,0 +1,25 @@
+{
+  "name": "custom-service",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Yue Lv <lvyue@lvyuely.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lvyue/custom-service",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io": "^1.5.1",
+    "jquery": "^3.1.1",
+    "moment": "^2.15.2",
+    "lodash": "^4.16.6",
+    "normalize-css": "^5.0.0"
+  }
+}

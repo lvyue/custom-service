@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#message {width: 100%;min-height: 600px;background: #000;color:#fff;}
+#message  > div {padding:5px;}
+#message .user {color:#00B7FF;}
+#message .time {padding:0  5px;}
+.send-box {position: fixed;width: 100%;height: 60px;margin:0 -50px;line-height: 60px;border-top: 1px #00B7FF solid; bottom: 0;background: #00CCFF;}
+#msg-input {width: 600px; height: 40px;margin-left: 20px;padding:0;border: 0}
+#send-msg {height: 40px;width: 60px;padding: 0;border: 0 ;cursor: pointer;}
